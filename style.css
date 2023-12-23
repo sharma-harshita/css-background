@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: repeat; */
+    /* background-position: top center; */
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
+    background-size: cover;
+}
+h1{
+    background: rgb(224, 77, 9);
+}
